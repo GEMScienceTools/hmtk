@@ -39,3 +39,4 @@ nosetests.xml
 # Added by Marco on 2013.01.09
 *.settings
 *.metadata
+*.DS_Store
