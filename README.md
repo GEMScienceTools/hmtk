@@ -1,1 +1,1 @@
-**THIS REPOSITORY IS OBSOLETE: CODE HAS BEEN INTEGRATED INTO https://github.com/gem/oq-hazardlib**
+**THIS REPOSITORY IS OBSOLETE: CODE HAS BEEN INTEGRATED INTO https://github.com/gem/oq-engine**
